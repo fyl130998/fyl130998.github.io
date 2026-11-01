@@ -1,0 +1,9 @@
+/* 修改正中间大标题的颜色 */
+#site-title {
+    color: #66ccff !important; /* 把 #ff0000 换成你喜欢的颜色代码 */
+}
+
+/* 修改左上角小标题的颜色 */
+#site-name {
+    color: #66ccff !important; /* 同上，这里可以改成不同的颜色 */
+}
